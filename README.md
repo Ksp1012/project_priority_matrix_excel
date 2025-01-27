@@ -24,6 +24,8 @@ The project priority matrix visualizes the data in a scatter plot:
 - **Bubble Size**: Size, which indicates the scale or resource intensity of the project.
 
 ### Quadrants of the Matrix
+![Alt text](priority_matrix.png)
+
 1. **Quick Wins**: High feasibility and high impact. These projects are both practical and beneficial, making them the top priority for immediate execution.
 2. **Major Projects**: Low feasibility but high impact. These projects require significant effort but can deliver substantial benefits if successfully implemented.
 3. **May Be Later**: Low feasibility and low impact. These projects are not urgent and can be deferred or reconsidered.
