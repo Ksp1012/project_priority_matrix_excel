@@ -19,6 +19,7 @@ The matrix is based on the following dataset:
 
 ## Visualization
 ![Alt text](priority_matrix.png)
+
 The project priority matrix visualizes the data in a scatter plot:
 - **X-axis**: Feasibility, representing the practicality or ease of implementing the project.
 - **Y-axis**: Impact, showing the potential benefits or influence of the project.
